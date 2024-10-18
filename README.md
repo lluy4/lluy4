@@ -1,14 +1,5 @@
 # Website bán điện thoại
 
-## Nhóm của tôi
-
-Trần Phương Nam
-
-Lê Khánh Trường Vũ
-
-Nguyễn Quốc Huy
-
-Phạm Ngọc Châu Minh Thy
 
 ## Về tôi
 
@@ -30,6 +21,17 @@ Công nghệ Thông tin tại HUFLIT (Trường Đại học Ngoại ngữ - Tin
 <a href="http://www.github.com/lluy4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lluy4&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/lluy4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluy4&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## Nhóm của tôi
+
+Trần Phương Nam
+
+Lê Khánh Trường Vũ
+
+Nguyễn Quốc Huy
+
+Phạm Ngọc Châu Minh Thy
+
 ## Kỹ năng:
 
 Phát triển phần mềm (C#, Java, HTML, JavaScript, CSS) <p align="left">
